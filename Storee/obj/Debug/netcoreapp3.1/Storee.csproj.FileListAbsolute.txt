@@ -1,0 +1,13 @@
+C:\Users\Eli\source\repos\Storee\Storee\bin\Debug\netcoreapp3.1\Storee.exe
+C:\Users\Eli\source\repos\Storee\Storee\bin\Debug\netcoreapp3.1\Storee.deps.json
+C:\Users\Eli\source\repos\Storee\Storee\bin\Debug\netcoreapp3.1\Storee.runtimeconfig.json
+C:\Users\Eli\source\repos\Storee\Storee\bin\Debug\netcoreapp3.1\Storee.runtimeconfig.dev.json
+C:\Users\Eli\source\repos\Storee\Storee\bin\Debug\netcoreapp3.1\Storee.dll
+C:\Users\Eli\source\repos\Storee\Storee\bin\Debug\netcoreapp3.1\Storee.pdb
+C:\Users\Eli\source\repos\Storee\Storee\obj\Debug\netcoreapp3.1\Storee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\source\repos\Storee\Storee\obj\Debug\netcoreapp3.1\Storee.AssemblyInfoInputs.cache
+C:\Users\Eli\source\repos\Storee\Storee\obj\Debug\netcoreapp3.1\Storee.AssemblyInfo.cs
+C:\Users\Eli\source\repos\Storee\Storee\obj\Debug\netcoreapp3.1\Storee.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\Storee\Storee\obj\Debug\netcoreapp3.1\Storee.dll
+C:\Users\Eli\source\repos\Storee\Storee\obj\Debug\netcoreapp3.1\Storee.pdb
+C:\Users\Eli\source\repos\Storee\Storee\obj\Debug\netcoreapp3.1\Storee.genruntimeconfig.cache
